@@ -1,4 +1,4 @@
 print "Hola Mundo"
 
-print "Adios"
+print "Adios colega"
 
