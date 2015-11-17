@@ -1,1 +1,1 @@
-print "Adios Mundo Cruel!"
+print "Adios Mundo "
